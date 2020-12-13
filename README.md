@@ -6,3 +6,4 @@ This is an Angular app that illustrates:
 - Intercepting a property assignment
 - Aliasing input
 - Replacing NgClass
+- Custom structural directive - replace NgFor
